@@ -52,7 +52,7 @@ const Header = () => {
               className="hidden sm:flex items-center gap-2 text-primary-foreground/80 hover:text-accent transition-colors"
             >
               <Mail className="h-3.5 w-3.5" />
-              <span className="text-xs">Pritamsingh62048@gmail.com</span>
+              <span className="text-xs">Rajdevsushilainfrastructure@gmail.com</span>
             </a>
             <a 
               href="tel:+916204846740" 
