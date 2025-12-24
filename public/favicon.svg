@@ -1,0 +1,18 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Background -->
+  <rect width="64" height="64" rx="12" fill="#1f2937"/>
+
+  <!-- Building -->
+  <rect x="14" y="18" width="20" height="30" rx="2" fill="#e5e7eb"/>
+  <rect x="18" y="22" width="4" height="4" fill="#9ca3af"/>
+  <rect x="24" y="22" width="4" height="4" fill="#9ca3af"/>
+  <rect x="18" y="28" width="4" height="4" fill="#9ca3af"/>
+  <rect x="24" y="28" width="4" height="4" fill="#9ca3af"/>
+
+  <!-- Road -->
+  <rect x="38" y="18" width="10" height="30" rx="2" fill="#374151"/>
+  <rect x="42" y="22" width="2" height="4" fill="#facc15"/>
+  <rect x="42" y="30" width="2" height="4" fill="#facc15"/>
+  <rect x="42" y="38" width="2" height="4" fill="#facc15"/>
+</svg>
