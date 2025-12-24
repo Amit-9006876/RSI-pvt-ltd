@@ -89,7 +89,7 @@ const Footer = () => {
                 <div className="w-8 h-8 bg-accent/10 rounded-lg flex items-center justify-center flex-shrink-0 group-hover:bg-accent/20 transition-colors">
                   <Mail className="h-4 w-4 text-accent" />
                 </div>
-                <a href="mailto:Pritamsingh62048@gmail.com" className="text-primary-foreground/70 hover:text-accent transition-colors break-all">
+                <a href="mailto:Rajdevsushilainfrastructure@gmail.com" className="text-primary-foreground/70 hover:text-accent transition-colors break-all">
                  Rajdevsushilainfrastructure@gmail.com
                 </a>
               </li>

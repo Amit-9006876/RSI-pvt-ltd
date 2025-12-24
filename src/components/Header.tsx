@@ -48,7 +48,7 @@ const Header = () => {
           </div>
           <div className="flex items-center gap-4">
             <a 
-              href="mailto:Pritamsingh62048@gmail.com" 
+              href="mailto:Rajdevsushilainfrastructure@gmail.com" 
               className="hidden sm:flex items-center gap-2 text-primary-foreground/80 hover:text-accent transition-colors"
             >
               <Mail className="h-3.5 w-3.5" />
