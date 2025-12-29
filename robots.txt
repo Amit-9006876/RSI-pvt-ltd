@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://rsi-pvt-ltd.vercel.app/sitemap.xml
